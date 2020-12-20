@@ -1,0 +1,1603 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E FHD">
+    <display-name lang="pt">A&amp;E FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E FHD [H265]">
+    <display-name lang="pt">A&amp;E FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="A&amp;E SD">
+    <display-name lang="pt">A&amp;E SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD [H265]">
+    <display-name lang="pt">AMC FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC SD">
+    <display-name lang="pt">AMC SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet 4K FHDR">
+    <display-name lang="pt">Animal Planet 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet FHD">
+    <display-name lang="pt">Animal Planet FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet FHD [H265]">
+    <display-name lang="pt">Animal Planet FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet SD">
+    <display-name lang="pt">Animal Planet SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 FHD">
+    <display-name lang="pt">Arte 1 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 FHD [H265]">
+    <display-name lang="pt">Arte 1 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Arte 1 SD">
+    <display-name lang="pt">Arte 1 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN FHD [H265]">
+    <display-name lang="pt">AXN FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN SD">
+    <display-name lang="pt">AXN SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SP FHD">
+    <display-name lang="pt">Band SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SP HD">
+    <display-name lang="pt">Band SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SP SD">
+    <display-name lang="pt">Band SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports FHD">
+    <display-name lang="pt">Band Sports FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports FHD [H265]">
+    <display-name lang="pt">Band Sports FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band Sports SD">
+    <display-name lang="pt">Band Sports SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BBC SD">
+    <display-name lang="pt">BBC SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS FHD">
+    <display-name lang="pt">BIS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS FHD [H265]">
+    <display-name lang="pt">BIS FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS HD">
+    <display-name lang="pt">BIS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BIS SD">
+    <display-name lang="pt">BIS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Bloomberg SD">
+    <display-name lang="pt">Bloomberg SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boa Vontade TV SD">
+    <display-name lang="pt">Boa Vontade TV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang FHD">
+    <display-name lang="pt">Boomerang FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang FHD [H265]">
+    <display-name lang="pt">Boomerang FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang HD">
+    <display-name lang="pt">Boomerang HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Boomerang SD">
+    <display-name lang="pt">Boomerang SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD">
+    <display-name lang="pt">Canal Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil FHD [H265]">
+    <display-name lang="pt">Canal Brasil FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil HD">
+    <display-name lang="pt">Canal Brasil HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil SD">
+    <display-name lang="pt">Canal Brasil SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi FHD">
+    <display-name lang="pt">Canal do Boi FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi HD">
+    <display-name lang="pt">Canal do Boi HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal do Boi SD">
+    <display-name lang="pt">Canal do Boi SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Rural SD">
+    <display-name lang="pt">Canal Rural SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD">
+    <display-name lang="pt">Canal Sony FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony FHD [H265]">
+    <display-name lang="pt">Canal Sony FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony HD">
+    <display-name lang="pt">Canal Sony HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Sony SD">
+    <display-name lang="pt">Canal Sony SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network 4K FHDR">
+    <display-name lang="pt">Cartoon Network 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD">
+    <display-name lang="pt">Cartoon Network FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network FHD [H265]">
+    <display-name lang="pt">Cartoon Network FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="pt">Cartoon Network HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cartoon Network SD">
+    <display-name lang="pt">Cartoon Network SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="pt">Cinemax FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax FHD [H265]">
+    <display-name lang="pt">Cinemax FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax SD">
+    <display-name lang="pt">Cinemax SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil 4K FHDR">
+    <display-name lang="pt">CNN Brasil 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil FHD">
+    <display-name lang="pt">CNN Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil FHD [H265]">
+    <display-name lang="pt">CNN Brasil FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil HD">
+    <display-name lang="pt">CNN Brasil HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN Brasil SD">
+    <display-name lang="pt">CNN Brasil SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CNN International SD">
+    <display-name lang="pt">CNN International SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate 4K FHDR">
+    <display-name lang="pt">Combate 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate FHD">
+    <display-name lang="pt">Combate FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate FHD [H265]">
+    <display-name lang="pt">Combate FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Combate SD">
+    <display-name lang="pt">Combate SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central FHD">
+    <display-name lang="pt">Comedy Central FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central FHD [H265]">
+    <display-name lang="pt">Comedy Central FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Comedy Central SD">
+    <display-name lang="pt">Comedy Central SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cultura FHD">
+    <display-name lang="pt">Cultura FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cultura FHD [H265]">
+    <display-name lang="pt">Cultura FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cultura SD">
+    <display-name lang="pt">Cultura SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel 4K FHDR">
+    <display-name lang="pt">Discovery Channel 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel FHD">
+    <display-name lang="pt">Discovery Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel FHD [H265]">
+    <display-name lang="pt">Discovery Channel FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Channel SD">
+    <display-name lang="pt">Discovery Channel SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery H&amp;H 4K FHDR">
+    <display-name lang="pt">Discovery H&amp;H 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery H&amp;H FHD">
+    <display-name lang="pt">Discovery H&amp;H FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery H&amp;H FHD [H265]">
+    <display-name lang="pt">Discovery H&amp;H FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery H&amp;H HD">
+    <display-name lang="pt">Discovery H&amp;H HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery H&amp;H SD">
+    <display-name lang="pt">Discovery H&amp;H SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids 4K FHDR">
+    <display-name lang="pt">Discovery Kids 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids FHD">
+    <display-name lang="pt">Discovery Kids FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids FHD [H265]">
+    <display-name lang="pt">Discovery Kids FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids HD">
+    <display-name lang="pt">Discovery Kids HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Kids SD">
+    <display-name lang="pt">Discovery Kids SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science FHD">
+    <display-name lang="pt">Discovery Science FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science FHD [H265]">
+    <display-name lang="pt">Discovery Science FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="pt">Discovery Science HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Science SD">
+    <display-name lang="pt">Discovery Science SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater FHD">
+    <display-name lang="pt">Discovery Theater FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater FHD [H265]">
+    <display-name lang="pt">Discovery Theater FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater HD">
+    <display-name lang="pt">Discovery Theater HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Theater SD">
+    <display-name lang="pt">Discovery Theater SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo FHD">
+    <display-name lang="pt">Discovery Turbo FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo FHD [H265]">
+    <display-name lang="pt">Discovery Turbo FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo HD">
+    <display-name lang="pt">Discovery Turbo HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Turbo SD">
+    <display-name lang="pt">Discovery Turbo SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel FHD">
+    <display-name lang="pt">Disney Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel FHD [H265]">
+    <display-name lang="pt">Disney Channel FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="pt">Disney Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Channel SD">
+    <display-name lang="pt">Disney Channel SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior FHD">
+    <display-name lang="pt">Disney Junior FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior FHD [H265]">
+    <display-name lang="pt">Disney Junior FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior HD">
+    <display-name lang="pt">Disney Junior HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney Junior SD">
+    <display-name lang="pt">Disney Junior SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD SD">
+    <display-name lang="pt">Disney XD SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! FHD">
+    <display-name lang="pt">E! FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! FHD [H265]">
+    <display-name lang="pt">E! FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="E! SD">
+    <display-name lang="pt">E! SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 FHD">
+    <display-name lang="pt">ESPN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 FHD [H265]">
+    <display-name lang="pt">ESPN FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 2 SD">
+    <display-name lang="pt">ESPN SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN 4K FHDR">
+    <display-name lang="pt">ESPN 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil FHD">
+    <display-name lang="pt">ESPN Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil FHD [H265]">
+    <display-name lang="pt">ESPN Brasil FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN Brasil SD">
+    <display-name lang="pt">ESPN Brasil SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FOX 4K FHDR">
+    <display-name lang="pt">FOX 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox FHD">
+    <display-name lang="pt">Fox FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox FHD [H265]">
+    <display-name lang="pt">Fox FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox HD">
+    <display-name lang="pt">Fox HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life FHD">
+    <display-name lang="pt">Fox Life FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life FHD [H265]">
+    <display-name lang="pt">Fox Life FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life HD">
+    <display-name lang="pt">Fox Life HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Life SD">
+    <display-name lang="pt">Fox Life SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox SD">
+    <display-name lang="pt">Fox SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 4K FHDR">
+    <display-name lang="pt">Fox Sports 2 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 FHD">
+    <display-name lang="pt">Fox Sports 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 FHD [H265]">
+    <display-name lang="pt">Fox Sports 2 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 HD">
+    <display-name lang="pt">Fox Sports 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 2 SD">
+    <display-name lang="pt">Fox Sports 2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports 4K FHDR">
+    <display-name lang="pt">Fox Sports 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports FHD">
+    <display-name lang="pt">Fox Sports FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports FHD [H265]">
+    <display-name lang="pt">Fox Sports FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports HD">
+    <display-name lang="pt">Fox Sports HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Fox Sports SD">
+    <display-name lang="pt">Fox Sports SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura FHD">
+    <display-name lang="pt">Futura FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura FHD [H265]">
+    <display-name lang="pt">Futura FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura HD">
+    <display-name lang="pt">Futura HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Futura SD">
+    <display-name lang="pt">Futura SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX FHD">
+    <display-name lang="pt">FX FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX FHD [H265]">
+    <display-name lang="pt">FX FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX SD">
+    <display-name lang="pt">FX SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News 4K FHDR">
+    <display-name lang="pt">Globo News 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News FHD">
+    <display-name lang="pt">Globo News FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News FHD [H265]">
+    <display-name lang="pt">Globo News FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News HD">
+    <display-name lang="pt">Globo News HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo News SD">
+    <display-name lang="pt">Globo News SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP SD">
+    <display-name lang="pt">Globo SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob FHD">
+    <display-name lang="pt">Gloob FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob FHD [H265]">
+    <display-name lang="pt">Gloob FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob HD">
+    <display-name lang="pt">Gloob HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Gloob SD">
+    <display-name lang="pt">Gloob SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT FHD">
+    <display-name lang="pt">GNT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT FHD [H265]">
+    <display-name lang="pt">GNT FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT HD">
+    <display-name lang="pt">GNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GNT SD">
+    <display-name lang="pt">GNT SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 4K FHDR">
+    <display-name lang="pt">H2 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 FHD">
+    <display-name lang="pt">H2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 FHD [H265]">
+    <display-name lang="pt">H2 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="H2 SD">
+    <display-name lang="pt">H2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 4K FHDR">
+    <display-name lang="pt">HBO 2 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 FHD">
+    <display-name lang="pt">HBO 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 FHD [H265]">
+    <display-name lang="pt">HBO 2 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2 SD">
+    <display-name lang="pt">HBO 2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 4K FHDR">
+    <display-name lang="pt">HBO 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FHD">
+    <display-name lang="pt">HBO FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FHD [H265]">
+    <display-name lang="pt">HBO FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO SD">
+    <display-name lang="pt">HBO SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family FHD">
+    <display-name lang="pt">HBO Family FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family FHD [H265]">
+    <display-name lang="pt">HBO Family FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Family SD">
+    <display-name lang="pt">HBO Family SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi FHD">
+    <display-name lang="pt">HBO Mundi FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi FHD [H265]">
+    <display-name lang="pt">HBO Mundi FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi HD">
+    <display-name lang="pt">HBO Mundi HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Mundi SD">
+    <display-name lang="pt">HBO Mundi SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus FHD">
+    <display-name lang="pt">HBO Plus FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus FHD [H265]">
+    <display-name lang="pt">HBO Plus FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Plus SD">
+    <display-name lang="pt">HBO Plus SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop FHD">
+    <display-name lang="pt">HBO Pop FHDp</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop FHD [H265]">
+    <display-name lang="pt">HBO Pop FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop HD">
+    <display-name lang="pt">HBO Pop HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Pop SD">
+    <display-name lang="pt">HBO Pop SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature FHD">
+    <display-name lang="pt">HBO Signature FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature FHD [H265]">
+    <display-name lang="pt">HBO Signature FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Signature SD">
+    <display-name lang="pt">HBO Signature SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme FHD">
+    <display-name lang="pt">HBO Xtreme FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme FHD [H265]">
+    <display-name lang="pt">HBO Xtreme FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name lang="pt">HBO Xtreme HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO Xtreme SD">
+    <display-name lang="pt">HBO Xtreme SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History 4K FHDR">
+    <display-name lang="pt">History 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History FHD">
+    <display-name lang="pt">History FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History FHD [H265]">
+    <display-name lang="pt">History FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="pt">History HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History SD">
+    <display-name lang="pt">History SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ID 4K FHDR">
+    <display-name lang="pt">ID 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ID FHD">
+    <display-name lang="pt">ID FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ID FHD [H265]">
+    <display-name lang="pt">ID FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ID HD">
+    <display-name lang="pt">ID HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ID SD">
+    <display-name lang="pt">ID SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime FHD">
+    <display-name lang="pt">Lifetime FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime FHD [H265]">
+    <display-name lang="pt">Lifetime FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Lifetime SD">
+    <display-name lang="pt">Lifetime SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix 4K FHDR">
+    <display-name lang="pt">Megapix 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix FHD">
+    <display-name lang="pt">Megapix FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD">
+    <display-name lang="pt">Megapix HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix HD FHD [H265]">
+    <display-name lang="pt">Megapix HD FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Megapix SD">
+    <display-name lang="pt">Megapix SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV FHD">
+    <display-name lang="pt">MTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV FHD [H265]">
+    <display-name lang="pt">MTV FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV HD">
+    <display-name lang="pt">MTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="MTV SD">
+    <display-name lang="pt">MTV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow 4K FHDR">
+    <display-name lang="pt">Multishow 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow FHD">
+    <display-name lang="pt">Multishow FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow FHD [H265]">
+    <display-name lang="pt">Multishow FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow HD">
+    <display-name lang="pt">Multishow HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Multishow SD">
+    <display-name lang="pt">Multishow SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild 4K FHDR">
+    <display-name lang="pt">Nat Geo Wild 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild FHD">
+    <display-name lang="pt">Nat Geo Wild FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild FHD [H265]">
+    <display-name lang="pt">Nat Geo Wild FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nat Geo Wild SD">
+    <display-name lang="pt">Nat Geo Wild SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic 4K FHDR">
+    <display-name lang="pt">National Geographic 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic FHD">
+    <display-name lang="pt">National Geographic FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic FHD [H265]">
+    <display-name lang="pt">National Geographic FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="National Geographic SD">
+    <display-name lang="pt">National Geographic SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon 4K FHDR">
+    <display-name lang="pt">Nickelodeon 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon FHD">
+    <display-name lang="pt">Nickelodeon FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon FHD [H265]">
+    <display-name lang="pt">Nickelodeon FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nickelodeon SD">
+    <display-name lang="pt">Nickelodeon SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr FHD">
+    <display-name lang="pt">Nick Jr FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr FHD [H265]">
+    <display-name lang="pt">Nick Jr FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr HD">
+    <display-name lang="pt">Nick Jr HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Nick Jr SD">
+    <display-name lang="pt">Nick Jr SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF 4K FHDR">
+    <display-name lang="pt">OFF 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF FHD">
+    <display-name lang="pt">OFF FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF FHD [H265]">
+    <display-name lang="pt">OFF FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF HD">
+    <display-name lang="pt">OFF HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="OFF SD">
+    <display-name lang="pt">OFF SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel FHD">
+    <display-name lang="pt">Paramount Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel FHD [H265]">
+    <display-name lang="pt">Paramount Channel FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel HD">
+    <display-name lang="pt">Paramount Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel SD">
+    <display-name lang="pt">Paramount Channel SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News FHD">
+    <display-name lang="pt">Record News FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News HD">
+    <display-name lang="pt">Record News HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record News SD">
+    <display-name lang="pt">Record News SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV SP FHD">
+    <display-name lang="pt">RecordTV SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV SP FHD  [H265]">
+    <display-name lang="pt">RecordTV SP FHD  [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV SP HD">
+    <display-name lang="pt">RecordTV SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV SP SD">
+    <display-name lang="pt">RecordTV SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV FHD">
+    <display-name lang="pt">RedeTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV FHD [H265]">
+    <display-name lang="pt">RedeTV FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV HD">
+    <display-name lang="pt">RedeTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RedeTV SD">
+    <display-name lang="pt">RedeTV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida FHD">
+    <display-name lang="pt">Rede Vida FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida FHD [H265]">
+    <display-name lang="pt">Rede Vida FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida HD">
+    <display-name lang="pt">Rede Vida HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Rede Vida SD">
+    <display-name lang="pt">Rede Vida SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RIT TV SD">
+    <display-name lang="pt">RIT TV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SD">
+    <display-name lang="pt">SBT SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SP FHD">
+    <display-name lang="pt">SBT SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SP HD">
+    <display-name lang="pt">SBT SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SBT SP SD">
+    <display-name lang="pt">SBT SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SIC Internacional SD">
+    <display-name lang="pt">SIC Internacional SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Smithsonian FHD">
+    <display-name lang="pt">Smithsonian FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Smithsonian FHD [H265]">
+    <display-name lang="pt">Smithsonian FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Smithsonian HD">
+    <display-name lang="pt">Smithsonian HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Smithsonian SD">
+    <display-name lang="pt">Smithsonian SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space FHD">
+    <display-name lang="pt">Space FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space FHD [H265]">
+    <display-name lang="pt">Space FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space HD">
+    <display-name lang="pt">Space HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Space SD">
+    <display-name lang="pt">Space SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 FHD">
+    <display-name lang="pt">SporTV 2 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 FHD [H265]">
+    <display-name lang="pt">SporTV 2 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 HD">
+    <display-name lang="pt">SporTV 2 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 2 SD">
+    <display-name lang="pt">SporTV 2 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 FHD">
+    <display-name lang="pt">SporTV 3 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 FHD [H265]">
+    <display-name lang="pt">SporTV 3 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">SporTV 3 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 3 SD">
+    <display-name lang="pt">SporTV 3 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV 4K FHDR">
+    <display-name lang="pt">SporTV 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV FHD">
+    <display-name lang="pt">SporTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV FHD [H265]">
+    <display-name lang="pt">SporTV FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">SporTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SporTV SD">
+    <display-name lang="pt">SporTV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal FHD">
+    <display-name lang="pt">Studio Universal FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal FHD [H265]">
+    <display-name lang="pt">Studio Universal FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Studio Universal SD">
+    <display-name lang="pt">Studio Universal SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy FHD [H265]">
+    <display-name lang="pt">SyFy FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy FHD">
+    <display-name lang="pt">SyFy FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy HD">
+    <display-name lang="pt">SyFy HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SyFy SD">
+    <display-name lang="pt">SyFy SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS FHD [H265]">
+    <display-name lang="pt">TBS FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS FHD">
+    <display-name lang="pt">TBS FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS HD">
+    <display-name lang="pt">TBS HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TBS SD">
+    <display-name lang="pt">TBS SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM FHD">
+    <display-name lang="pt">TCM FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="pt">TCM HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TCM SD">
+    <display-name lang="pt">TCM SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action 4K FHDR">
+    <display-name lang="pt">Telecine Action 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action FHD">
+    <display-name lang="pt">Telecine Action FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action FHD [H265]">
+    <display-name lang="pt">Telecine Action FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action HD">
+    <display-name lang="pt">Telecine Action HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Action SD">
+    <display-name lang="pt">Telecine Action SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult FHD">
+    <display-name lang="pt">Telecine Cult FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult FHD [H265]">
+    <display-name lang="pt">Telecine Cult FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult HD">
+    <display-name lang="pt">Telecine Cult HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Cult SD">
+    <display-name lang="pt">Telecine Cult SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD [H265]">
+    <display-name lang="pt">Telecine Fun FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun FHD">
+    <display-name lang="pt">Telecine Fun FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun HD">
+    <display-name lang="pt">Telecine Fun HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Fun SD">
+    <display-name lang="pt">Telecine Fun SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca 4K FHDR">
+    <display-name lang="pt">Telecine Pipoca 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD">
+    <display-name lang="pt">Telecine Pipoca FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca FHD [H265]">
+    <display-name lang="pt">Telecine Pipoca FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca HD">
+    <display-name lang="pt">Telecine Pipoca HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca SD">
+    <display-name lang="pt">Telecine Pipoca SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium 4K FHDR">
+    <display-name lang="pt">Telecine Premium 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium FHD">
+    <display-name lang="pt">Telecine Premium FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium FHD [H265]">
+    <display-name lang="pt">Telecine Premium FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium HD">
+    <display-name lang="pt">Telecine Premium HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Premium SD">
+    <display-name lang="pt">Telecine Premium SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch FHD">
+    <display-name lang="pt">Telecine Touch FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch FHD [H265]">
+    <display-name lang="pt">Telecine Touch FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch HD">
+    <display-name lang="pt">Telecine Touch HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch SD">
+    <display-name lang="pt">Telecine Touch SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC FHD">
+    <display-name lang="pt">TLC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC FHD [H265]">
+    <display-name lang="pt">TLC FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="pt">TLC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TLC SD">
+    <display-name lang="pt">TLC SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT 4K FHDR">
+    <display-name lang="pt">TNT 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT FHD">
+    <display-name lang="pt">TNT FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT FHD [H265]">
+    <display-name lang="pt">TNT FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT HD">
+    <display-name lang="pt">TNT HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT SD">
+    <display-name lang="pt">TNT SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series 4K FHDR">
+    <display-name lang="pt">TNT Series 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series FHD">
+    <display-name lang="pt">TNT Series FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series FHD [H265]">
+    <display-name lang="pt">TNT Series FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series HD">
+    <display-name lang="pt">TNT Series HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT Series SD">
+    <display-name lang="pt">TNT Series SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Tooncast SD">
+    <display-name lang="pt">Tooncast SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV FHD">
+    <display-name lang="pt">TruTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV HD">
+    <display-name lang="pt">TruTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TruTV SD">
+    <display-name lang="pt">TruTV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV5 Monde SD">
+    <display-name lang="pt">TV5 Monde SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil FHD">
+    <display-name lang="pt">TV Brasil FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil FHD [H265]">
+    <display-name lang="pt">TV Brasil FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil HD">
+    <display-name lang="pt">TV Brasil HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Brasil SD">
+    <display-name lang="pt">TV Brasil SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Cancao Nova SD">
+    <display-name lang="pt">TV Cancao Nova SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta SP FHD">
+    <display-name lang="pt">TV Gazeta SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta SP HD">
+    <display-name lang="pt">TV Gazeta SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Gazeta SP SD">
+    <display-name lang="pt">TV Gazeta SP SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Justiça SD">
+    <display-name lang="pt">TV Justiça SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal TV FHD">
+    <display-name lang="pt">Universal TV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal TV FHD [H265]">
+    <display-name lang="pt">Universal TV FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal TV HD">
+    <display-name lang="pt">Universal TV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Universal TV SD">
+    <display-name lang="pt">Universal TV SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 FHD">
+    <display-name lang="pt">VH1 FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 FHD [H265]">
+    <display-name lang="pt">VH1 FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 HD">
+    <display-name lang="pt">VH1 HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="VH1 SD">
+    <display-name lang="pt">VH1 SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva FHD">
+    <display-name lang="pt">Viva FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva FHD [H265]">
+    <display-name lang="pt">Viva FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Viva SD">
+    <display-name lang="pt">Viva SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel 4K FHDR">
+    <display-name lang="pt">Warner Channel 4K FHDR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel FHD">
+    <display-name lang="pt">Warner Channel FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel FHD [H265]">
+    <display-name lang="pt">Warner Channel FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel HD">
+    <display-name lang="pt">Warner Channel HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Warner Channel SD">
+    <display-name lang="pt">Warner Channel SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WooHoo FHD">
+    <display-name lang="pt">WooHoo FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WooHoo FHD [H265]">
+    <display-name lang="pt">WooHoo FHD [H265]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WooHoo HD">
+    <display-name lang="pt">WooHoo HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="WooHoo SD">
+    <display-name lang="pt">WooHoo SD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
